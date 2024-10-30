@@ -50,6 +50,6 @@ This Flutter application implements a login screen, retrieves user data via API 
 
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/rahul011097/SoftHunterTechAssignment.git>
    
 
