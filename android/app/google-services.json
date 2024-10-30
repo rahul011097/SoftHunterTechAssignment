@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850037522729",
+    "project_id": "project-3-8cdf9",
+    "storage_bucket": "project-3-8cdf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850037522729:android:1d12cab33775e953dcf738",
+        "android_client_info": {
+          "package_name": "com.example.skyline_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLk01-WYHW5AKBwlV5UqjbMcbRMFatoYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
